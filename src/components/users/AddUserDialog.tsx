@@ -14,5 +14,4 @@
 //     }
 //   };
 
-//   // ... rest of the component
 // }
